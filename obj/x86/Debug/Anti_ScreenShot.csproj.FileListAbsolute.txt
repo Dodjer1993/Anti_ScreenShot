@@ -1,0 +1,8 @@
+c:\users\asus\documents\visual studio 2010\Projects\Anti_ScreenShot\Anti_ScreenShot\bin\Debug\Anti_ScreenShot.exe
+c:\users\asus\documents\visual studio 2010\Projects\Anti_ScreenShot\Anti_ScreenShot\bin\Debug\Anti_ScreenShot.pdb
+c:\users\asus\documents\visual studio 2010\Projects\Anti_ScreenShot\Anti_ScreenShot\obj\x86\Debug\Anti_ScreenShot.Form1.resources
+c:\users\asus\documents\visual studio 2010\Projects\Anti_ScreenShot\Anti_ScreenShot\obj\x86\Debug\Anti_ScreenShot.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2010\Projects\Anti_ScreenShot\Anti_ScreenShot\obj\x86\Debug\Anti_ScreenShot.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2010\Projects\Anti_ScreenShot\Anti_ScreenShot\obj\x86\Debug\Anti_ScreenShot.exe
+c:\users\asus\documents\visual studio 2010\Projects\Anti_ScreenShot\Anti_ScreenShot\obj\x86\Debug\Anti_ScreenShot.pdb
+c:\users\asus\documents\visual studio 2010\Projects\Anti_ScreenShot\Anti_ScreenShot\obj\x86\Debug\Anti_ScreenShot.Form2.resources
